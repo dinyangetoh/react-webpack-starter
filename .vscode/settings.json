@@ -1,0 +1,4 @@
+{
+    // "editor.formatOnSave": false,
+    "react.beautify.onSave": true
+}
