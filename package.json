@@ -2,6 +2,9 @@
   "name": "react-webpack-starter",
   "version": "1.0.0",
   "description": "React project starter with webpack and es6",
+  "repository": {
+    "url": "https: //github.com/dinyangetoh/react-webpack-starter.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --hot --mode development"
