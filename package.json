@@ -19,15 +19,22 @@
   "license": "MIT",
   "dependencies": {
     "autoprefixer": "^8.1.0",
-    "bootstrap": "^4.0.0",
+    "boom": "^7.2.0",
+    "bootstrap": "^4.1.3",
     "css-loader": "^0.28.10",
+    "hoek": "^5.0.3",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.9.2",
+    "open-browser-webpack-plugin": "0.0.5",
     "path": "^0.12.7",
+    "popper.js": "^1.14.3",
     "postcss-loader": "^2.1.1",
     "precss": "^3.1.2",
-    "react": "^16.2.0",
-    "react-dom": "^16.2.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
     "sass-loader": "^6.0.7",
-    "style-loader": "^0.20.2"
+    "style-loader": "^0.20.2",
+    "webpack": "^4.16.3"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
